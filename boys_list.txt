@@ -1,0 +1,7 @@
+ABC 5 10 100 5 Miser
+BCD 9 20 200 10 Generous
+DEF 8 30 300 15 Geek
+EFG 15 40 50 2 Miser
+FGH 6 60 60 3 Generous
+GHI 2 80 10 4 Geek
+%$# 2 80 10 4 Geek

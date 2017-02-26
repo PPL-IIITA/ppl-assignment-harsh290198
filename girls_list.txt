@@ -1,0 +1,4 @@
+PINK 10 200 4 Most_Attractive Choosy
+RED 7 50 6 Most_Rich Normal
+BLUE 100 100 9 Most_Intelligent Desperate
+%$# 4 100 9 Most_Intelligent Desperate
