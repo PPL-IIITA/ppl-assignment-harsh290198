@@ -1,0 +1,8 @@
+10 20 Essential 0 0 0 0
+20 30 Luxury 30 100 0 0
+30 20 Utility 0 0 10 30
+40 40 Essential 0 0 0 0
+50 30 Essential 0 0 0 0
+10 40 Luxury 40 400 0 0 
+20 50 Utility 0 0 20 40
+0 0 *** 0 0 0 0
